@@ -1,0 +1,35 @@
+Nombres:
+- Garrido López Luis Enrique
+- Gutiérrez García Sofía Malinalli
+- Mora Palacios Diego Andreé
+
+Respuestas a las preguntas de la práctica:
+1.- Razones:
+ - Porque Linux permaneció fiel a us orígenes como GPOS.
+ - Linux es un SO basado en archivos, el cual requiere un
+ sistema de archivos sobre un dispositivo de almacenamiento
+ en bloques con derechos de lectura y escritura.
+ - Linux es un SO multitarea, los procesos individuales
+ tienen un espacio privado de direcciones de memoria el 
+ cual puede ser fácilmente mapeado en la memoría física.
+ 
+2.- 
+
+a) El protocolo SSH es el que mejor se adapta a nuestras
+necesidades, y por lo general en muchas distribuciones
+de linux (incluyendo Raspbian, el SO de la Raspberry Pi)
+las conexiones SSH están habilitadas por defecto. 
+
+b) VNC, Nos permite conectarnos desde cualquier lugar y 
+tener control total sobre el escritorio. Aunque tenga una 
+tasa de refresco lenta que imposibilita poder realizar 
+ciertas tareas, pero podremos utilizar cualquier cliente
+como TightVNC.
+
+c) Protocolo RDP, es un protocolo propietario de Microsoft
+que permite la conexión de forma remota sin depender de 
+otras aplicaciones, pero se deberá instalar una 
+versión no oficial de este protocolo para que podamos
+establecer conexión con Raspberry.
+
+
