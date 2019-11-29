@@ -1,0 +1,16 @@
+Práctica 5
+Integrantes:
+-Garrido López Luis Enrique
+-Gutiérrez García Sofía Malinalli
+-Mora Palacios
+
+La práctica 5 consistió en un programa en Python que recibía de la línea de comando un nombre de archivo, seguido de un 
+número y la extensión del archivo y a la salida se podrá observar lo siguiente:
+
+0,Hola USB,data 0
+1,Hola USB,data 1
+2,Hola USB,data 2
+3,Hola USB,data 3
+....
+....
+N,Hola USB,data N
