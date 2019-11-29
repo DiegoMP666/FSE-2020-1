@@ -1,0 +1,14 @@
+Práctica 5
+Nombres:
+-Garrido López Luis Enrique
+-Gutiérrez García Sofía Malinalli
+-Mora Palacios Diego Andreé
+
+La practica 5 consistió en realizar un programa en Python que recibiera por línea de comandos el nombre d eun archivo sobre 
+el cual va a imprimir, seguido de un número y la extensión del archivo que se creará. Entonces el contenido del archivo será:
+
+0,Hola USB,data 0
+1,Hola USB,data 1
+...
+...
+N,Hola USB,data N
