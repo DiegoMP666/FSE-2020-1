@@ -1,0 +1,9 @@
+Práctica 6
+Integrantes:
+-Garrido López Luis Enrique
+-Gutiérrez García Sofía Malinalli
+-Mora Palacios Diego Andreé
+
+La práctica 6 consistió en realizar un programa en python que configura el puerto I2C con el find e establecer comunicación
+con un reloj en tiempo real, donde el tiempo dado por el reloj real debe escribirse en un archivo localizado en una USB como
+en la práctica anterior
